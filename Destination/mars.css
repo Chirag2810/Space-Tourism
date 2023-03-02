@@ -1,0 +1,127 @@
+body{
+    margin:0px;
+}
+.pages{
+    position: absolute;
+    bottom:88%;
+    right:1%;
+}
+.box{
+    margin:0px;
+    position:absolute;
+    bottom:83%;
+    left:55%;
+    width:45%;
+    height:74px;
+    border-color:black ;
+    background-color: white;
+    opacity:0.2;
+}
+a{
+    font-family: 'oswald';
+    font-size: 1.5em;
+    font-style: bold;
+    padding-bottom: 30px;
+    padding-bottom: 30px;
+    color:#ffff;
+    margin: 20px;
+}
+.destination:link{
+    text-decoration-line:none;
+    border-bottom-style:solid;
+    border-bottom-width:4px;
+    width:fit-content;
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration-line:none;
+    border-bottom-style:solid;
+    border-bottom-width:4px;
+    width:fit-content;
+}
+.top_text{
+    margin:0px;
+    margin-left: 100px;
+    position:absolute;
+    bottom:60%;
+    font-size:150%;
+    font-family:'Abel';
+    font-weight:bold;
+    color:#ffff;
+}
+.moon{
+    margin:0px;
+    margin-left:125px;
+    position:absolute;
+    bottom:5%;
+    width:40%;
+    height:40%;
+}
+.dest_link{
+    position:absolute;
+    bottom:50%;
+    right:20%;
+}
+.moon_link:link{
+    text-decoration-line:none;
+    border-bottom-style:solid;
+    border-bottom-width:4px;
+    width:fit-content;
+}
+.whole{
+    position:absolute;
+    top:50%;
+    width:50%;
+    left:55%;
+}
+h1{
+    color:#ffff;
+    font-size: 600%;
+    font-family:'Lusitana',serif;
+    font-weight:normal;
+}
+p{
+    width:50%;
+    font-size:100%;
+    color:#ffff;
+    text-align: justify;
+}
+hr{
+    margin:0px;
+    border-top: 0px;
+    border-width: 2px;;
+    width:50%;
+    margin-top:50px;
+}
+.bottom1{
+    position:absolute;
+    width:40%;
+    margin:0px;
+    margin-top: 20px;
+}
+.A{
+    margin:0px;
+    margin-top:5px;
+    text-align:justify;
+    font-size:2em;
+    font-family:'abel';
+}
+.bottom2{
+    position: absolute;
+    left:30%;
+    width:46%;
+    margin:0px;
+    margin-top: 20px;
+}
+.B{
+    margin-top:5px;
+    text-align:justify;
+    font-size:2em;
+    font-family:'abel';
+}
